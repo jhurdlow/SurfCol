@@ -40,5 +40,6 @@
     <None Include="..\SDK90\source\serv.def">
       <Filter>Source Files</Filter>
     </None>
+    <None Include="..\Readme.md" />
   </ItemGroup>
 </Project>
